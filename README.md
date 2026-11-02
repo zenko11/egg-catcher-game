@@ -32,7 +32,5 @@ The game will be available at:
 http://localhost:9000
 ```
 
-## Context
-This project was developed as part of an academic JavaScript project.
 
 
